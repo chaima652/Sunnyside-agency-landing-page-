@@ -160,7 +160,7 @@ font-size: 30px;
 
 }
 .sec3 .c{
-background-image: url(./desktop/image-graphic-design.jpg);
+background-image: url(./images/desktop/image-graphic-design.jpg);
 width: 636px;
  height: 540px;
 }
@@ -185,7 +185,7 @@ width: 636px;
   font-size: 20px;
 }
 .sec3 .d {
-  background-image: url(./desktop/image-photography.jpg);
+  background-image: url(./images/desktop/image-photography.jpg);
   margin:0;
   width: 650px;
   height: 540px;
@@ -386,7 +386,7 @@ footer .f2{
     margin-top: 100px;
   }
   header .image {
-    background-image: url(./mobile/image-header.jpg);
+    background-image: url(./images/mobile/image-header.jpg);
     width: 700px;
     height: 800px;
   }
@@ -406,7 +406,7 @@ footer .f2{
     flex-direction: column-reverse;
    }
   .sec1 img {
-    background-image: url(./mobile/image-transform.jpg);
+    background-image: url(./images/mobile/image-transform.jpg);
     width: 700px;
     height: 500px;
   }
@@ -437,7 +437,7 @@ footer .f2{
     margin-top: 15px;
   }
   .sec2 img{
-    background-image: url(./mobile/image-stand-out.jpg);
+    background-image: url(./images/mobile/image-stand-out.jpg);
     width: 700px;
     height: 500px;
     margin-top: 55px;
@@ -469,7 +469,7 @@ footer .f2{
     flex-direction: column;
   }
   .sec3 .c{ 
-    background-image: url(./mobile/image-graphic-design.jpg);
+    background-image: url(./images/mobile/image-graphic-design.jpg);
     margin-top: 55px;
     width: 700px;
     height: 1000px;
@@ -489,7 +489,7 @@ footer .f2{
     margin: 50px auto;
   }
   .sec3 .d {
-background-image: url(./mobile/image-photography.jpg);
+background-image: url(./images/mobile/image-photography.jpg);
 width: 700px;
 height: 1000px;
   }
