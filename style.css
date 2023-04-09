@@ -61,7 +61,9 @@ header .m {
   margin-top: 120px;
 }
 .n1 .logo {
-  height: 80px;
+     width: 10%;
+    height: 20%;
+    margin-top: 10%;
 }
 nav a{
   position: relative;
