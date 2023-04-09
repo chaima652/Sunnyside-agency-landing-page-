@@ -59,10 +59,10 @@ header .m {
   height: 130px;
   letter-spacing: 8px;
   margin-top: 120px;
- margin -left:-200px;
+ margin -left: -200px;
 }
 .n1 .logo {
-text-align: center;
+    text-align: center;
     margin-left: -400px;
     height: 20%;
     margin-top: 10%;
@@ -82,7 +82,7 @@ nav img {
 }
 nav a input{ 
   
-  width: 100px;
+ 
   height: 35px;
   background: #DCDCDC;
   border: none;
