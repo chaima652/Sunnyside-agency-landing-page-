@@ -386,9 +386,7 @@ footer .f2{
   nav a{
     display: none;
   }
-  .m .logo {
-    margin-top: 100px;
-  }
+
   header .image {
     background-image: url(./images/mobile/image-header.jpg);
     width: 700px;
