@@ -392,6 +392,9 @@ footer .f2{
     width: 700px;
     height: 800px;
   }
+ .m .logo {
+  width: 0;
+ }
   .n1 h1 { 
     text-align: center;
     padding-left: 150px;
