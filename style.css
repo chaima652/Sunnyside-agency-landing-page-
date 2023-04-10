@@ -379,7 +379,7 @@ footer .f2{
   transform: scale(1.2);
  
 }
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   body {
     margin: 0;
     margin-right: 0;
