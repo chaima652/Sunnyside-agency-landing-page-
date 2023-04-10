@@ -59,26 +59,30 @@ header .m {
   text-align: center;
   height: 130px;
   letter-spacing: 8px;
-  margin-top: 120px;
- margin -left: -200px;
+  margin-top: 320px;
+ margin-left: -550px;
 }
 .n1 .logo {
      text-align: center;
-    
-    height: 60px;
-    margin-top: 10%;
+width: 25px;
+    height: 70px;
+    margin-top: -30px;
+    margin-left: -600px;
 }
-nav a{
+nav .navbar a{
   position: relative;
   font-size: var(--font-size);
   color: #fff;
   text-decoration: none;
   font-family: var(--font-weight-normal1);
   margin-left: 40px;
-  top: -30px;
+  top: -50px;
   left: 800px;
 }
-nav img {
+nav .sun img {
+  
+  width: 300px;
+  height: 50px;
     margin-top: 150px;
 }
 nav a input{ 
@@ -384,7 +388,7 @@ footer .f2{
     margin: 0;
     margin-right: 0;
   }
-  nav a{
+  nav .navbar a{
     display: none;
   }
 
@@ -393,15 +397,12 @@ footer .f2{
     width: 700px;
     height: 800px;
   }
- .m .logo {
-      width: 25px;
-     
- }
+ 
   .n1 h1 { 
     text-align: center;
-    padding-left: 150px;
-   padding-top: 20px;
-    font-size: 60px;
+    padding-left: 790px;
+    margin-top: 200px;
+    font-size: 30px;
     position: absolute;
   }
   .n1 .logo {
